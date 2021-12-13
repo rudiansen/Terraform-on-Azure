@@ -1,0 +1,4 @@
+# Ignore terraform generated init files
+**/.terraform*
+**/terraform*
+**/*.tfplan
